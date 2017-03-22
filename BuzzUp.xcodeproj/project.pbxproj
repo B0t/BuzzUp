@@ -505,6 +505,7 @@
 				422AA2041E82F1010086143A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		422AA2051E82F1010086143A /* Build configuration list for PBXNativeTarget "BuzzUpTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				422AA2071E82F1010086143A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		422AA2081E82F1010086143A /* Build configuration list for PBXNativeTarget "BuzzUpUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				422AA20A1E82F1010086143A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
